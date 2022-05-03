@@ -7,3 +7,4 @@ Najmračnejša otroška igra. Saj se samo hecam.
 To so vsi avtorji projekta:
 - Janez Novak
 - drugih ni
+-  Mojster Miha
