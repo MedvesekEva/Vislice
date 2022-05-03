@@ -1,2 +1,3 @@
 class UmetnaInteligenca:
-    pass
+    def _init_(self):
+        self.ime = "GENIJ"
