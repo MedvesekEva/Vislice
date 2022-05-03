@@ -8,4 +8,3 @@ To so vsi avtorji projekta:
 - Janez Novak
 - Lea Novak
 - drugih ni
-
